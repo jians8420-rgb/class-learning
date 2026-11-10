@@ -1,4 +1,4 @@
 interface:
   display_name: "Class Summary 课程总结"
-  short_description: "结合课堂字幕与课件生成适合研究生阅读的精简 Markdown 总结并支持追问"
-  default_prompt: "使用 $class-summary 读取我提供的字幕地址和 PPT 地址，交付重点清晰的 Markdown 课程总结，在聊天中呈现重点并支持后续追问。"
+  short_description: "结合课堂字幕与课件生成适合研究生阅读的简洁易懂的 PPT 总结并支持追问"
+  default_prompt: "使用 $class-summary 读取我提供的字幕地址和 PPT 地址，交付简洁且能独立读懂的 PPT 课程总结，在聊天中呈现重点并支持后续追问。"
